@@ -1,4 +1,4 @@
-👋 Hello!
+🖖 Hello!
 
 👨‍💻 I’m a senior full-stack Software Engineer with experience working across distributed systems and scalable architecture. 
 
